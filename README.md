@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # PRINTF SIMULATOR
 
@@ -33,3 +34,7 @@ The "Printf Simulator" project is a console-based application that emulates the 
 - [@Ali Derraj](https://github.com/Ali-Bello)
 - [@Anas Amellahe](https://github.com/anasamellahe)
 
+=======
+Anas Amellah
+the most similar function to printf yet.
+>>>>>>> refs/remotes/origin/main
